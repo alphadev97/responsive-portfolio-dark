@@ -9,8 +9,8 @@
 }
 
 :root{
-    --bg-color: #ffffff;
-    --text-color: #03045E;
+    --bg-color: #252525;
+    --text-color: #1BDBC0;
     --second-color: #00B4D8;
     --main-color: #008DBD;
     --big-font: 5rem;
@@ -109,7 +109,6 @@ section{
     min-height: 100vh;
     height: 100%;
     width: 100%;
-    background: url(../img/background.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
